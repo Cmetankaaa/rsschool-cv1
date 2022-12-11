@@ -47,4 +47,8 @@ Discord: tomchik (@Cmetankaaa)
 
 - I'm still learning
 
+***
+
+## **Education**
+- trade and economic сollege (training)
 
