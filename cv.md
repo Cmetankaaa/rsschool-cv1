@@ -30,3 +30,14 @@ Discord: tomchik (@Cmetankaaa)
 - Git
 - Delphi 7
 
+***
+
+## **Code Example**
+```
+ <html>
+     <body>
+       <p>Привет</p>
+     </body>
+   </html>
+```
+
