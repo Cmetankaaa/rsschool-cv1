@@ -12,3 +12,11 @@ Gmail: ccmetankaa@gmail.com
 
 Discord: tomchik (@Cmetankaaa)
 
+***
+
+## **About me**
+
+- The student is studying for a system programmer 3 course, superficial knowledge of Python, C #, C, as well as basic knowledge of Delphi 7
+- I would like to work Front-end where they will take, well, a bigger salary
+
+
