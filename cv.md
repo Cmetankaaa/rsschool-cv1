@@ -23,9 +23,10 @@ Discord: tomchik (@Cmetankaaa)
 
 ## **Skills**
 
--HTML
--C
--Python
--Git
--Delphi 7
+- HTML
+- C
+- C#
+- Python
+- Git
+- Delphi 7
 
