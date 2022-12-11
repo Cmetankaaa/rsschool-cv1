@@ -50,5 +50,5 @@ Discord: tomchik (@Cmetankaaa)
 ***
 
 ## **Education**
-- trade and economic сollege (training)
+- Molodechno Trade and Economic College of Belkoopsoyuz (training)
 
