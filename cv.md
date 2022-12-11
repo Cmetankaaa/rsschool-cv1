@@ -1,0 +1,60 @@
+# **Daniil Tomkovich**
+
+***
+
+## **Contacts**
+
+Location: Belarus, Minsk
+
+Phone in Belarus: +375-44-468-46-39
+
+Gmail: ccmetankaa@gmail.com
+
+Discord: tomchik (@Cmetankaaa)
+
+***
+
+## **About me**
+I am 18 years old
+- The student is studying for a system programmer 3 course, superficial knowledge of Python, C #, C, as well as basic knowledge of Delphi 7
+- I would like to work Front-end where they will take, well, a bigger salary
+
+***
+
+## **Skills**
+
+- HTML
+- C
+- C#
+- Python
+- Git
+- Delphi 7
+
+***
+
+## **Code Example**
+```
+ <html>
+     <body>
+       <p>Привет</p>
+     </body>
+   </html>
+```
+
+***
+
+## **Experience**
+
+- I'm still learning
+
+***
+
+## **Education**
+- Molodechno Trade and Economic College of Belkoopsoyuz (training)
+
+***
+
+## **LANGUAGES**
+* English: A2
+* Belorussian: Native
+* Russian: Native 
