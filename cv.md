@@ -52,3 +52,9 @@ Discord: tomchik (@Cmetankaaa)
 ## **Education**
 - Molodechno Trade and Economic College of Belkoopsoyuz (training)
 
+***
+
+## **LANGUAGES**
+* English: A2
+* Belorussian: Native
+* Russian: Native 
